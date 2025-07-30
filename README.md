@@ -3,7 +3,7 @@
 Some example run:
 ergosphere.ipynb
 
-Finished:
+**Finished:**
 
 data_loader.py (download data from yfinance and set up data structures)
 
@@ -21,7 +21,7 @@ backtester.py (runs a backtest on historical data, comparing with a buy-and-hold
 
 utils.py (log functions and some others misc functions)
 
-In progress:
+**In progress:**
 
 broker_adapter.py (interface with ccxt)
 
